@@ -9,7 +9,7 @@ function Testimonials() {
       <div className="testimonial-cards">
 
         <div className="testimonial-card">
-          <h3>Mishal Shabbir</h3>
+          <h3></h3>
           <p>CEO</p>
 
           <p>
