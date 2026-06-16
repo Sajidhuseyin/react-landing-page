@@ -55,3 +55,12 @@
 .social-icons svg:hover {
   transform: translateY(-3px);
 }
+
+.social-icons a {
+  color: white;
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  transform: translateY(-3px);
+}
