@@ -9,11 +9,21 @@
 
   padding: 20px 8%;
 
-  background: white;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  background: rgb(7, 3, 3);
+  box-shadow: 0 2px 10px rgba(192, 171, 171, 0.1);
+}
+nav ul li a{
+    color:white !important;
+    text-decoration:none;
+    font-weight:500;
+    transition:0.3s;
 }
 
+nav ul li a:hover{
+    color:#38bdf8 !important;
+}
 .logo {
+   color:white !important;
   font-size: 24px;
   font-weight: bold;
 }
